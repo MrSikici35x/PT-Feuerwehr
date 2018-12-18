@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="733.0" prefWidth="1168.0" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="application.Controller">
+   <children>
+      <Button layoutX="40.0" layoutY="14.0" mnemonicParsing="false" onAction="#generateHouses" text="Generate Houses" />
+      <Button layoutX="194.0" layoutY="14.0" mnemonicParsing="false" onAction="#generateFireStation" text="Generate FireStation" />
+      <ImageView fx:id="house1" fitHeight="55.0" fitWidth="59.0" layoutX="40.0" layoutY="64.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../pictures/house.png" />
+         </image>
+      </ImageView>
+      <ImageView fx:id="house2" fitHeight="55.0" fitWidth="59.0" layoutX="144.0" layoutY="64.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../pictures/house.png" />
+         </image>
+      </ImageView>
+      <ImageView fx:id="house3" fitHeight="55.0" fitWidth="59.0" layoutX="242.0" layoutY="64.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../pictures/house.png" />
+         </image>
+      </ImageView>
+      <ImageView fx:id="house4" fitHeight="55.0" fitWidth="59.0" layoutX="339.0" layoutY="64.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../pictures/house.png" />
+         </image>
+      </ImageView>
+      <ImageView fx:id="house5" fitHeight="55.0" fitWidth="59.0" layoutX="451.0" layoutY="64.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../pictures/house.png" />
+         </image>
+      </ImageView>
+      <ImageView fx:id="house6" fitHeight="55.0" fitWidth="59.0" layoutX="557.0" layoutY="64.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../pictures/house.png" />
+         </image>
+      </ImageView>
+      <ImageView fx:id="house7" fitHeight="55.0" fitWidth="59.0" layoutX="41.0" layoutY="138.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../pictures/house.png" />
+         </image>
+      </ImageView>
+      <ImageView fx:id="house8" fitHeight="55.0" fitWidth="59.0" layoutX="145.0" layoutY="138.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../pictures/house.png" />
+         </image>
+      </ImageView>
+      <ImageView fx:id="house9" fitHeight="55.0" fitWidth="59.0" layoutX="243.0" layoutY="138.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../pictures/house.png" />
+         </image>
+      </ImageView>
+      <ImageView fx:id="house10" fitHeight="55.0" fitWidth="59.0" layoutX="340.0" layoutY="138.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../pictures/house.png" />
+         </image>
+      </ImageView>
+      <ImageView fx:id="house11" fitHeight="55.0" fitWidth="59.0" layoutX="452.0" layoutY="138.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../pictures/house.png" />
+         </image>
+      </ImageView>
+      <ImageView fx:id="house12" fitHeight="55.0" fitWidth="59.0" layoutX="558.0" layoutY="138.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../pictures/house.png" />
+         </image>
+      </ImageView>
+      <ImageView fx:id="house13" fitHeight="55.0" fitWidth="59.0" layoutX="46.0" layoutY="217.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../pictures/house.png" />
+         </image>
+      </ImageView>
+      <ImageView fx:id="house14" fitHeight="55.0" fitWidth="59.0" layoutX="150.0" layoutY="217.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../pictures/house.png" />
+         </image>
+      </ImageView>
+      <ImageView fx:id="house15" fitHeight="55.0" fitWidth="59.0" layoutX="248.0" layoutY="217.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../pictures/house.png" />
+         </image>
+      </ImageView>
+      <ImageView fx:id="house16" fitHeight="55.0" fitWidth="59.0" layoutX="345.0" layoutY="217.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../pictures/house.png" />
+         </image>
+      </ImageView>
+      <ImageView fx:id="house17" fitHeight="55.0" fitWidth="59.0" layoutX="457.0" layoutY="217.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../pictures/house.png" />
+         </image>
+      </ImageView>
+      <ImageView fx:id="house18" fitHeight="55.0" fitWidth="59.0" layoutX="563.0" layoutY="217.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../pictures/house.png" />
+         </image>
+      </ImageView>
+      <ImageView fx:id="house19" fitHeight="55.0" fitWidth="59.0" layoutX="47.0" layoutY="296.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../pictures/house.png" />
+         </image>
+      </ImageView>
+      <ImageView fx:id="house20" fitHeight="55.0" fitWidth="59.0" layoutX="151.0" layoutY="296.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../pictures/house.png" />
+         </image>
+      </ImageView>
+      <ImageView fx:id="house21" fitHeight="55.0" fitWidth="59.0" layoutX="249.0" layoutY="296.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../pictures/house.png" />
+         </image>
+      </ImageView>
+      <ImageView fx:id="house22" fitHeight="55.0" fitWidth="59.0" layoutX="346.0" layoutY="296.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../pictures/house.png" />
+         </image>
+      </ImageView>
+      <ImageView fx:id="house23" fitHeight="55.0" fitWidth="59.0" layoutX="458.0" layoutY="296.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../pictures/house.png" />
+         </image>
+      </ImageView>
+      <ImageView fx:id="house24" fitHeight="55.0" fitWidth="59.0" layoutX="564.0" layoutY="296.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../pictures/house.png" />
+         </image>
+      </ImageView>
+      <ImageView fx:id="fireStation" fitHeight="118.0" fitWidth="92.0" layoutX="668.0" layoutY="63.0" opacity="0.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../pictures/Fire-Station.png" />
+         </image>
+      </ImageView>
+   </children>
+</AnchorPane>
